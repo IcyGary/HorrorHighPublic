@@ -1,0 +1,121 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "b5e53b",
+      "Name": "Custom_Tile",
+      "Transform": {
+        "posX": -24.4480057,
+        "posY": 0.981499255,
+        "posZ": 24.2222557,
+        "rotX": 8.289539E-08,
+        "rotY": 179.983963,
+        "rotZ": 6.603583E-08,
+        "scaleX": 2.61136246,
+        "scaleY": 1.0,
+        "scaleZ": 2.61136246
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/2483262823513310548/6DBCEA8C852B0E1A3A99586B064F0C575D332FF6/",
+        "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/2483262823513310949/72B03D9B398929705C97A2ABBF708EF9E7AEA14E/",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 3,
+          "Thickness": 0.2,
+          "Stackable": false,
+          "Stretch": true
+        }
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "AttachedSnapPoints": [
+        {
+          "Position": {
+            "x": 0.455507427,
+            "y": 0.2000003,
+            "z": 0.949225366
+          }
+        },
+        {
+          "Position": {
+            "x": 0.273243129,
+            "y": 0.200000241,
+            "z": 0.9484893
+          }
+        },
+        {
+          "Position": {
+            "x": 0.08703118,
+            "y": 0.2000003,
+            "z": 0.9437286
+          }
+        },
+        {
+          "Position": {
+            "x": -0.08721876,
+            "y": 0.200000256,
+            "z": 0.9510372
+          }
+        },
+        {
+          "Position": {
+            "x": -0.2815102,
+            "y": 0.2000003,
+            "z": 0.9542542
+          }
+        },
+        {
+          "Position": {
+            "x": -0.455338776,
+            "y": 0.200000316,
+            "z": 0.961548567
+          }
+        }
+      ]
+    }
+  ]
+}
